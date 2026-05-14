@@ -1,5 +1,6 @@
 # Catholic Digital Commons Foundation — Website CMS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4060878cec5a4f769f07746b712f2668)](https://app.codacy.com/gh/CatholicOS/cdcf-website?utm_source=github.com&utm_medium=referral&utm_content=CatholicOS/cdcf-website&utm_campaign=Badge_Grade)
 [![Next.js](https://img.shields.io/github/package-json/dependency-version/CatholicOS/cdcf-website/next?label=Next.js&logo=nextdotjs&color=000000)](https://nextjs.org)
 [![React](https://img.shields.io/github/package-json/dependency-version/CatholicOS/cdcf-website/react?label=React&logo=react&color=61DAFB&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/github/package-json/dependency-version/CatholicOS/cdcf-website/dev/typescript?label=TypeScript&logo=typescript&color=3178C6&logoColor=white)](https://www.typescriptlang.org)
